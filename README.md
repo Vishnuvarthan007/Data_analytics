@@ -66,4 +66,4 @@ Utilization of Data Filters
 
 7)Web Integration
 
-* Dashboard and Story embed with UI With Flask
+* Dashboard and Story embed with UI 
